@@ -24,7 +24,13 @@
 [我的GitHub](https://github.com/picklecai)     
 6. 图片  
 这是图片。快捷键是Ctrl+G
-![keynote使用](https://camo.githubusercontent.com/7cde22df98c9ba705fbf812ea056767652e6dfae/687474703a2f2f696d672d73746f726167652e71696e6975646e2e636f6d2f31352d382d32372f39323834383930312e6a7067)  
+![keynote使用](https://camo.githubusercontent.com/7cde22df98c9ba705fbf812ea056767652e6dfae/687474703a2f2f696d672d73746f726167652e71696e6975646e2e636f6d2f31352d382d32372f39323834383930312e6a7067) 
+7. 时间   
+在这里插入当前时间：11/11/2015 1:36:27 PM，快捷键是Ctrl+T。
+8. 分割线  
+在这里插入分割线。快捷键是Ctrl+R。  
+
+----------
 
 ## 公式书写  
 
@@ -32,9 +38,8 @@ $$
 y=x^2  
 $$    
 
-----------
 
-11/11/2015 1:36:27 PM 
+
 
 
 
